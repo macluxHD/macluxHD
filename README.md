@@ -18,8 +18,8 @@
 
 <h2 align="center">Contact</h2>
 
-- <img src="raw.githubusercontent.com/macluxHD/macluxHD/main/assets/discord-mark-blue.svg" align="center" width="30" height="30"> .ireina
-- <img src="raw.githubusercontent.com/macluxHD/macluxHD/main/assets/mail-md.svg" align="center" width="30" height="30"> maclux@duck.com
+- <img src="https://raw.githubusercontent.com/macluxHD/macluxHD/main/assets/discord-mark-blue.svg" align="center" width="30" height="30"> .ireina
+- <img src="https://raw.githubusercontent.com/macluxHD/macluxHD/main/assets/mail-md.svg" align="center" width="30" height="30"> maclux@duck.com
 
 <h2 align="center">Languages and Tools</h2>
     <br>
