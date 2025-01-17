@@ -8,7 +8,6 @@
 
 
 - 🔭 I’m currently studying **Computer Science** at **Maastricht University** 
-- 🌱 I’m currently learning **Rust**  
 
 <br>
 <br>
@@ -47,6 +46,14 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
+        <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
 </p>
 
 <h2 align="center"> 💻 My Github Stats </h2>
