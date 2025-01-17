@@ -1,7 +1,7 @@
 <h2 align="center"> Welcome to my profile 👋 </h2>
 <br>
 
-<img align='right' src="https://majotabi.jp/images/top-main/7/chara-a.png" height="300">
+<img align='right' src="https://raw.githubusercontent.com/macluxHD/macluxHD/main/assets/chara-a.png" height="300">
 <br>
 <br>
 <br>
